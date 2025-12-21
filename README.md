@@ -43,7 +43,8 @@ I like **clean code**, **simple explanations**, and…
 ---
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-agravat-fullstackdev)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas-agravat-dev/tejas-agravat)  [![C# Corner](https://img.shields.io/badge/C%23%20Corner-0078D4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.c-sharpcorner.com/members/tejas-agravat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-agravat-fullstackdev)  [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejas-agravat-dev/tejas-agravat)  [![C# Corner](https://img.shields.io/badge/C%23%20Corner-0078D4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.c-sharpcorner.com/members/tejas-agravat) [![Hashnode](https://img.shields.io/badge/Hashnode-01A1DB?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@tejas-agravat) [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/tejas_agravat_1a781f196b0)
+
 
 ---
 

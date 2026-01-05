@@ -17,21 +17,6 @@ I like **clean code**, **simple explanations**, and…
 **Tabs > Spaces 😄**
 
 ---
-## 📂 Open Source Contributions
-
-**React Datepicker** – [PR #5948](https://github.com/Hacker0x01/react-datepicker/pull/5948)  
-- Fixed popper arrow offset issue when `showPopperArrow` is false.  
-- Improved calendar alignment and UI behavior.
-
-**React Datepicker** – [PR #6071](https://github.com/Hacker0x01/react-datepicker/pull/6071)  
-- Resolved date picker blur issue after selecting a date.  
-- Enhanced input focus management for better UX.
-
-**Markdrop** – [PR #61](https://github.com/rakheOmar/Markdrop/pull/61)  
-- Implemented feature/fix description here.  
-- Improved project functionality or UI behavior (add brief detail).  
----
-
 
 ## 📝 Blog Posts
 
